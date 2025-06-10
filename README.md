@@ -57,12 +57,6 @@ However, I was unable to test it on an EDR, and I have concerns about its abilit
 
 
 
-## Analyzing the Payload with Windows Defender :
-
-![Defender](https://github.com/raphaelthief/FUD-Tor-reverse-shell-PoC/blob/main/Defender_scan.JPG "Defender")
-
-
-
 ## Launching the Payload on the Target PC with Defender Running :
 
 ![Running](https://github.com/raphaelthief/FUD-Tor-reverse-shell-PoC/blob/main/Demo.JPG "Running")
